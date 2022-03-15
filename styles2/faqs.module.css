@@ -1,0 +1,59 @@
+.herosection {
+    height: 472px;
+    display: flex;
+    align-items: center;
+}
+
+.hFaqs {
+    height: 1125px;
+}
+
+.topSection {
+    height: 193px;
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.newsletter.track label{
+    width: 32.13% !important;
+    color: #7D7D7D !important; 
+    
+}
+
+.newsletter{
+    width: 32.1%;
+}
+
+.tabList{
+    width: 17%;
+    height: 62px;
+    border: 1px solid #FFC20E;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+
+.active{
+    width: 17%;
+    height: 62px;
+    border: 1px solid #FFC20E; 
+    background-color: #FFC20E !important;
+    transition: .3s all;
+}
+
+.px19{
+    padding-right: 76px;
+    padding-left: 76px;
+}
+
+.faqscontentw{
+    width: 44%;
+    transition: .3s all;
+}
+
+.h4size{
+    font-size: 22px;
+}
+
+.faqsLine{
+    width: 1px;
+    background-color: #FFC20E;
+}

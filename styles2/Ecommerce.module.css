@@ -1,0 +1,63 @@
+.herosection{
+    display: flex;
+    align-items: center;
+    height: 597px;
+}
+
+.w88{
+    width: 88.8%;
+}
+.w44{
+    min-width: 48%;
+    margin-left: 50px;
+    max-width: 48.5%;
+}
+.BlueSection{
+    height: auto;
+}
+.freightImage{
+    height: 341px;
+    min-width: 43.8%;
+}
+.slickImage{
+    height: 304px;
+    min-width: 43.5%;
+    max-width: 43.5%;
+}
+.active{
+    border-bottom: 5px solid #FFC20E;
+    padding-bottom: 20px;
+}
+
+.noborder{
+    border: none;
+}
+
+.bottomContent{
+    background-color: #F7F7F7; 
+}
+
+.yellowBack{
+    background-image: url('../assets/images2/about-zajil-exprece/image/bg.jpg') !important;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px; 
+    height: 805px;
+}
+
+.w64{
+    width: 64.5%;
+}
+
+.newsletter{
+    width: 44% !important;
+}
+.wareHouseSetting{
+    min-width: 47%;
+    max-width: 47%;
+    height: 315px;
+    overflow: hidden;
+    border-radius: 10px;
+}

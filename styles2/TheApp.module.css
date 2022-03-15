@@ -1,0 +1,14 @@
+.app {
+    height: 637px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.mobimgw{
+    width: 39%;
+}
+
+.textw{
+    width: 26%;
+}
